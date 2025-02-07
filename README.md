@@ -8,10 +8,10 @@ https://67a61c2dda73ec239f8c651f--employee-task-mng-sys.netlify.app/
 ## ✨ Features
 * ✅ Admin Dashboard – Assign, track, and manage employee tasks seamlessly.
 * ✅ Employee Dashboard – View assigned tasks, mark progress, and update statuses.
-✅ Task Status Management – Categorize tasks as New, In Progress, Completed, or Failed.
-✅ User Authentication – Secure login for employees and administrators.
-✅ Real-Time Updates – Instant task updates with smooth UI interactions.
-✅ Built with Modern Tech – Uses React, Vite, Tailwind CSS for a fast and sleek experience.
+* ✅ Task Status Management – Categorize tasks as New, In Progress, Completed, or Failed.
+* ✅ User Authentication – Secure login for employees and administrators.
+* ✅ Real-Time Updates – Instant task updates with smooth UI interactions.
+* ✅ Built with Modern Tech – Uses React, Vite, Tailwind CSS for a fast and sleek experience.
 
 🚀 Technologies Used
 🔹 Frontend – React, Vite, Tailwind CSS
